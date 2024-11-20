@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "js-circle-progress": "^1.0.0-beta.0",
     "@fancyapps/ui": "^5.0.12",
     "aos": "^2.3.4",
     "autosize": "^6.0.1",
@@ -11,9 +10,11 @@
     "inputmask": "^5.0.8",
     "jquery": "^3.6.4",
     "jquery.scrollbar": "^0.2.11",
+    "js-circle-progress": "^1.0.0-beta.0",
     "lightgallery": "^2.6.1",
     "nouislider": "^15.7.0",
     "pagepiling-js-version-kostyast": "^2.0.5",
+    "simple-parallax-js": "^6.0.1",
     "slick-slider": "^1.8.2",
     "swiper": "^9.1.1",
     "tooltipster": "^4.2.8"
